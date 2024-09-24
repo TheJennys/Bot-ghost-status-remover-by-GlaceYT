@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Giocando a Krakenmc"];
+const statusMessages = ["Giocando a USD | reborn"];
 
 
 let currentIndex = 0;
